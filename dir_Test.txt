@@ -1,0 +1,20 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 52CB-FBE4
+
+ Directory of D:\
+
+24-01-2019  10:59               516 CurrDatTime.class
+24-01-2019  10:47               210 CurrDatTime.java
+24-01-2019  11:22                 0 dir_Test.txt
+24-01-2019  10:16    <DIR>          eclipse
+28-11-2018  11:59         8,848,264 FCC_installer_6e0c839e.exe
+23-01-2019  12:06        45,608,976 Git-2.20.1-64-bit.exe
+24-01-2019  09:49    <DIR>          Personal
+24-01-2019  10:18    <DIR>          Sel-workspace
+15-01-2019  16:55    <DIR>          SXM
+26-11-2018  17:20        89,734,000 Teams_windows_x64.exe
+24-01-2019  11:11               810 test.txt
+09-11-2018  15:33    <DIR>          work
+27-11-2018  17:37         9,040,224 ZoomInstaller.exe
+               8 File(s)    153,233,000 bytes
+               5 Dir(s)  749,722,968,064 bytes free
