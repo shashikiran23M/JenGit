@@ -1,0 +1,14 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 3837-45E2
+
+ Directory of D:\Sel-Java\Code\JenGit
+
+03/24/2019  05:37 PM    <DIR>          .
+03/24/2019  05:37 PM    <DIR>          ..
+03/24/2019  05:29 PM               516 CurrDatTime.class
+03/24/2019  05:29 PM               210 CurrDatTime.java
+03/24/2019  05:29 PM               860 dir_Test.txt
+03/24/2019  05:37 PM                 0 newTest.txt
+03/24/2019  05:29 PM               834 test.txt
+               5 File(s)          2,420 bytes
+               2 Dir(s)   1,742,958,592 bytes free
